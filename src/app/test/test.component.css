@@ -1,0 +1,16 @@
+.bg h1{
+    color: rgb(247, 247, 247);
+    margin-left: 42%;
+    padding: auto;
+    padding-top: 15%;
+  
+}
+
+.bg button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-left: 50%;
+ 
+    
+}
